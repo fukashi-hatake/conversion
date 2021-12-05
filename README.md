@@ -13,8 +13,15 @@
 
 
 ### Examples: 
-#### E-commerce for UK retailer 
+#### E-commerce for UK retailer (Example 1/3)
 
 <img src="screenshots/ecommerce_screen1.PNG"> 
 <img src="screenshots/ecommerce_screen2.PNG"> 
 <img src="screenshots/ecommerce_screen3.PNG"> 
+
+
+#### Chicago Taxi (Example 2/3) 
+
+<img src="screenshots/taxi_screen1.PNG"> 
+<img src="screenshots/taxi_screen2.PNG"> 
+<img src="screenshots/taxi_screen3.PNG"> 
