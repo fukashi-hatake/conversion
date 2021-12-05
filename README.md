@@ -3,6 +3,11 @@
 * For: Open Data Challenge 2021 (hackathon) 
 * Sector: Business 
 
+#### Team: 
+* Firuz Juraev 
+* Doston Toshbekov 
+* Eldor Abdukhamidov 
+
 <img src="assets/images/conversion_logo.png"> 
 
 #### We offer: 
